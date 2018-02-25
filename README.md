@@ -1,0 +1,2 @@
+# myMagMirror
+VMZ MagMir
